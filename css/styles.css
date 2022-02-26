@@ -9,11 +9,22 @@
 body{
   background-color: azure;
   font-family: "poppins-normal" , sans-serif;
+  font-size: 16px;
 
 }
 .logo{font-family: "poppins-bold", sans-serif;
-  margin: auto;
+  margin: 0;
   float: left;
 }
+.nav-links{
+  float: right;
+   
+
+}nav ul{
+  list-style: none;
+}
+nav li{
+  display: inline-block;
+  margin-left: 80px;
   
 }
