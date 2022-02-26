@@ -1,5 +1,19 @@
-*{
-  margin: 0;
-  padding: 0;
+@font-face {
+  font-family:"poppins-bold" ;
+  src: url(/fonts/Poppins-Bold.ttf );
+}
+@font-face {
+  font-family: "poppins-normal";
+  src: url(/fonts/Poppins-Black.ttf);
+}
+body{
+  background-color: azure;
+  font-family: "poppins-normal" , sans-serif;
 
+}
+.logo{font-family: "poppins-bold", sans-serif;
+  margin: auto;
+  float: left;
+}
+  
 }
