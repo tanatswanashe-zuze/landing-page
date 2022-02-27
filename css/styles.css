@@ -3,9 +3,9 @@
   padding: 0;
   box-sizing: border-box;
 }
-*@media screen {:-webkit-full-screen
-  
-  
+
+*@media screen {
+  : -webkit-full-screen
 }
 
 @font-face {
@@ -101,121 +101,137 @@ nav ul li a :hover {
   height: 400px;
   width: 300px;
 }
+
 .subhead1 {
   line-height: 1;
   margin: 20px;
   font-size: 30px;
   text-align: left;
 }
-.section2{
+
+.section2 {
   max-width: 95%;
   height: 600px;
   margin: 0 auto;
-  
+
 }
-.myskills{
+
+.myskills {
   font-size: 50px;
   font-weight: bold;
   text-align: center;
 
 }
-  
-.subhead2{
+
+.subhead2 {
   font-size: 30px;
   text-align: center;
 }
+
 .skills ul li {
   font-size: 20px;
   list-style: none;
   display: inline-block;
-  
+
   font-weight: bold;
   padding-top: 20 px;
   padding-left: 8%;
   padding-right: 8%;
-  margin:35px;
-  
+  margin: 35px;
+
 }
+
 .skillicons {
-  padding: 10px 25px ;
+  padding: 10px 25px;
   display: inline-block;
   padding-top: 20 px;
   padding-left: 8%;
   padding-right: 8%;
-  margin:35px;
+  margin: 35px;
 }
-.section3{
+
+.section3 {
   background-color: antiquewhite;
   max-width: 95%;
   height: 1000px;
   margin: 0 auto;
   justify-content: space-evenly;
 }
+
 .section3 img {
-  display:inline-block;
+  display: inline-block;
   margin-left: auto;
   margin-right: auto;
   width: 40%;
   padding-left: 10%;
-  
-  
+
+
 }
 
-.project{
+.project {
   font-size: 50px;
   text-align: center;
 }
-.evenex{
+
+.evenex {
   height: 400px;
   width: 800px;
 }
-.cowboy{
+
+.cowboy {
   height: 400px;
   width: 800px;
 }
-.sig{
+
+.sig {
   height: 400px;
   width: 800px;
 }
-.oxi{
+
+.oxi {
   height: 400px;
   width: 800px;
 }
-.proshots{
+
+.proshots {
   align-content: center;
   padding: auto;
   justify-content: center;
 }
-.contact{
+
+.contact {
   text-align: center;
 }
-.section4{
+
+.section4 {
   max-width: 95%;
   height: 600px;
   margin: 0 auto;
   display: flex;
   content: ;
-  
+
   justify-content: space-evenly;
-  
+
 }
-.cotactbox{
+
+.cotactbox {
   width: 500px;
   background-color: #fff;
   box-shadow: 0 0 20px 0 #999;
   top: 50%;
   left: 50%;
-  transform: translate(-50% , -50%);
+  transform: translate(-50%, -50%);
   position: absolute;
 }
-.input-field{
+
+.input-field {
   width: 400px;
   height: 50px;
   margin-top: 20px;
   padding-left: 10px;
   padding-bottom: 20px;
   border: 1px solid #777;
-  border-radius: 14px; 
+  border-radius: 14px;
   outline: none;
   float: left;
   display: inline-block;
@@ -227,23 +243,27 @@ form {
   justify-items: center;
   justify-content: right;
 }
-.textarea-field{
-   height: 150px;
-   padding-top: 180px;
+
+.textarea-field {
+  height: 150px;
+  padding-top: 180px;
 }
 
 }
-.social{
+
+.social {
   text-align: center;
 
 }
-.social-media{
+
+.social-media {
   align-items: center;
 }
+
 footer ul li {
- 
+
   list-style: none;
-  display:inline-block;
- ;
+  display: inline-block;
+  ;
 
 }
