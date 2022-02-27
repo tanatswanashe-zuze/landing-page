@@ -8,12 +8,12 @@
 
  ---
 
- ##
- Lisence and Copyright
+ ## Lisence and Copyright
 
  c Copyright Tanatswanashe Zuze
   license MIT
 ---
+
   ## Code language used
 
   'html'
