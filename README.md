@@ -3,8 +3,14 @@
 
  ---
 
+ ## Cotributors
+ Tanatswaashe zuze <	tanatswanashe.zuze@student.moringaschool.com>
+
+ ---
+
  ##
  Lisence and Copyright
 
  c Copyright Tanatswanashe Zuze
+  license 
 
