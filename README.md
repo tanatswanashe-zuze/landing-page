@@ -12,5 +12,12 @@
  Lisence and Copyright
 
  c Copyright Tanatswanashe Zuze
-  license 
+  license MIT
+---
+  ## Code language used
+
+  'html'
+  'css'
+
+
 
