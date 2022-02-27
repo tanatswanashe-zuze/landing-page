@@ -16,7 +16,7 @@
 
 body {
   font-family: "poppins-normal";
-  background-color: aquamarine;
+  background-color: rgb(107, 107, 105);
 }
 
 .container {
@@ -67,12 +67,12 @@ nav ul li a :hover {
 }
 
 .btn {
-  background-color: aqua;
+  background-color: rgb(1, 15, 15);
   color: white;
   text-decoration: none;
   border: 4px solid transparent;
   font-weight: bold;
-  padding: 10px 5px;
+  padding: 5px 10px;
   border-radius: 35px;
 }
 
@@ -86,7 +86,7 @@ nav ul li a :hover {
 .section1 {
   background-color: antiquewhite;
   max-width: 95%;
-  height: 1000px;
+  height: 800px;
   margin: 0 auto;
   display: flex;
   align-items: center;
@@ -141,10 +141,22 @@ nav ul li a :hover {
   margin:35px;
 }
 .section3{
+  background-color: antiquewhite;
   max-width: 95%;
   height: 1000px;
   margin: 0 auto;
+  justify-content: space-evenly;
 }
+.section3 img {
+  display:inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  padding-left: 10%;
+  
+  
+}
+
 .project{
   font-size: 50px;
   text-align: center;
@@ -165,12 +177,68 @@ nav ul li a :hover {
   height: 400px;
   width: 800px;
 }
-.projects{
-  padding-left: 8%;
-  padding-right: 8%;
-  margin: 100px;
+.proshots{
+  align-content: center;
+  padding: auto;
+  justify-content: center;
+}
+.contact{
+  text-align: center;
+}
+.section4{
+  max-width: 95%;
+  height: 600px;
+  margin: 0 auto;
+  display: flex;
+  
+  justify-content: space-evenly;
+  
+}
+.cotactbox{
+  width: 500px;
+  background-color: #fff;
+  box-shadow: 0 0 20px 0 #999;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50% , -50%);
+  position: absolute;
+}
+.input-field{
+  width: 400px;
+  height: 50px;
+  margin-top: 20px;
+  padding-left: 10px;
+  padding-bottom: 20px;
+  border: 1px solid #777;
+  border-radius: 14px; 
+  
+  outline: none;
+  float: left;
   display: inline-block;
-
+  justify-content: left;
+}
+form {
+  align-items: center;
+  justify-items: center;
+  justify-content: right;
+}
+.textarea-field{
+   height: 150px;
+   padding-top: 180px;
 }
 
+}
+.social{
+  text-align: center;
 
+}
+.social-media{
+  align-items: center;
+}
+footer ul li {
+ 
+  list-style: none;
+  display:inline-block;
+ ;
+
+}
