@@ -18,7 +18,7 @@ body{
   background-color: aquamarine;
 }
 .container{
-  height: fit-content;
+  height:100%;
   
 
 
@@ -65,20 +65,35 @@ nav ul li a :hover{
   border-radius: 35px;
 }
 .section1 h1{
+text-align: center;
   color:white;
-  margin: 20pc 0px 20px;
+  margin: 20px;
   font-size: 40px;
-  line: height 0;
+}
+.section1{
+  background-color: antiquewhite;
+  max-width: 95%;
+  height: 1000px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content:space-around
+}
+.man{
+  height: 400px;
+  width: 300px;
+
 
 
 }
-.intro{
-  position: absolute;
-
+.subhead1{
+  line-height:1;
+  margin: 20px;
+  font-size: 30px;
+  text-align: left;
   
 
-  transform: translateY(-50%);
-  line-break: normal;
-
-
 }
+
+
+
