@@ -25,7 +25,6 @@
 
 used vs code to code project 
 
-/visual-studio-marketplace/v/:extensionId
 
 
 
