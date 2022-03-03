@@ -27,8 +27,8 @@
 + CHROME BROWSER 
 
 ## LIVE LINK
-
-< http://127.0.0.1:5501/ >
+ 
+< https://tanatswanashe-zuze.github.io/landing-page/ >
 
 
 
