@@ -9,17 +9,18 @@
  ---
 
  ## Lisence and Copyright
-
- c Copyright Tanatswanashe Zuze
-  license MIT
+  c Copyright Tanatswanashe Zuze
+  license  MIT
 ---
 
   ## Code language used
 
-  'html'
-  'css'
+<ul>
+  <li>'html'<li>
+  <li>'css'<li>
+<ul>
 
----
+----
 
 ## project setup
 
