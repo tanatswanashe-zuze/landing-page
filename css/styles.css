@@ -25,9 +25,13 @@ body {
 
 .container {
   height: 100%;
+  
+}
 
-
-
+.head{
+  display: flex;
+  align-items: center;
+  color: black;
 }
 
 nav {
@@ -208,7 +212,7 @@ nav ul li a :hover {
   height: 600px;
   margin: 0 auto;
   display: flex;
-  content: ;
+  
 
   justify-content: space-evenly;
 
@@ -249,7 +253,6 @@ form {
   padding-top: 180px;
 }
 
-}
 
 .social {
   text-align: center;
@@ -262,6 +265,7 @@ form {
 
 footer ul li {
 
+align-items: center;
   list-style: none;
   display: inline-block;
   ;
