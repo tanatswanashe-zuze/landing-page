@@ -10,7 +10,7 @@
 
  ## Lisence and Copyright
    
-   +[MIT][LISENCE]
+   + MIT-[LISENCE]
 
 ---
 
@@ -30,9 +30,8 @@
  
 < https://tanatswanashe-zuze.github.io/landing-page/ >
 
-
-
-
 ---
+## AUTHOUR
 
++ TANATSWANASHE ZUZE
 
