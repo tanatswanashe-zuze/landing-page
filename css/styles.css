@@ -195,6 +195,7 @@ nav ul li a :hover {
 .oxi {
   height: 400px;
   width: 800px;
+
 }
 
 .proshots {
@@ -237,7 +238,7 @@ nav ul li a :hover {
   border: 1px solid #777;
   border-radius: 14px;
   outline: none;
-  float: left;
+
   display: inline-block;
   justify-content: left;
 }
