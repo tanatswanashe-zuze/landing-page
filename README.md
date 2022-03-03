@@ -9,20 +9,26 @@
  ---
 
  ## Lisence and Copyright
-   c Copyright Tanatswanashe Zuze
-  license  MIT
+   
+   +[MIT][LISENCE]
+
 ---
 
   ## Code language used
-
-  <li>'html'<li>
-  <li>'css'<li>
+  
+  + HTML
+  + CSS
 
 ----
 
 ## project setup
 
-used vs code to code project 
++ VS CODE
++ CHROME BROWSER 
+
+## LIVE LINK
+
+< http://127.0.0.1:5501/ >
 
 
 
